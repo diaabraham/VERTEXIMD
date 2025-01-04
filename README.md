@@ -2,6 +2,9 @@
 
 ## Municipal Infrastructure Monitoring Platform
 
+![Vertex CT - IMD LOGO OG-Recovered2](https://github.com/user-attachments/assets/4a681707-bae4-4eb3-b5a6-a11cee54c480)
+
+
 ### Overview
 Real-time infrastructure tracking and predictive maintenance solution.
 
